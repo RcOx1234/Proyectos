@@ -1,7 +1,8 @@
 {
   "scripts": 
 [
-   { "title": "Actualizacion Numero 1", "Descripcion": "La mejor Actualizacionnnnnnnnnnnnnnnnnnn", "author": "RCOXXX"},
-    { "title": "Actualizacion Numero 2", "Descripcion": "OMAGGGGGGEEEEE", "author": "RCOXXX"},
+   { "title": "Lanzamiento de JonyX 5.0", "Descripcion": "Jony X 6 ah salido, y con esto, mejoramos por mucho la interfaz el atractivo sexual y todo lo demas xd", "author": "RCOXXX"},
+    { "title": "Cambio A WPF", "Descripcion": "Mejor interfaz, anims etc...", "author": "RCOXXX"},
+    { "title": "Solucion de Error", "Descripcion": "Se soluciono el error del auto inject.", "author": "RCOXXX"},
   ],
 }
