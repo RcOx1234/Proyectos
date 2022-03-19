@@ -1,1 +1,6 @@
-
+{
+  "scripts": 
+[
+   { "title": "", "description": "", "author": "", "imageURL": ""},
+  ],
+}
